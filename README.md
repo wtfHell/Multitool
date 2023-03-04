@@ -25,6 +25,5 @@ If you have any issue contac me by discord: 0x00001 ⸸#9222
 
 ## Authors
 
-- [@wtfHell](https://github.com/wtfHell)
-- [Page](https://feds.lol/$$)
+- [@wtfHell](https://github.com/wtfHell)0
 
